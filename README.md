@@ -1,4 +1,6 @@
 # NodeODM : Hetzner Cloud - cloud-config
+https://github.com/OpenDroneMap/NodeODM
+
 Script to automatically create a NodeODM node on a Hetzner cloud server.
 To be replaced in the script:
 * USER -> An username account
